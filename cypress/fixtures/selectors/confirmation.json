@@ -1,0 +1,11 @@
+{
+    "infoContainer": ".card",
+    "header": ".card-header",
+    "company": ".card-title",
+    "pricePerDay": ".card-body > :nth-child(2)",
+    "location": ".card-body > :nth-child(3)",
+    "licensePlate": ".card-body > :nth-child(4)",
+    "pickup": ".card-body > :nth-child(5)",
+    "dropoff": ".card-body > :nth-child(6)",
+    "rentBtn": ".btn"
+}

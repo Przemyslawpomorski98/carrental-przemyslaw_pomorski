@@ -1,0 +1,24 @@
+{
+    "country": {
+        "label": "label[for='country']",
+        "select": "#country"
+    },
+    "city": {
+        "label": "label[for='city']",
+        "select": "#city"
+    },
+    "model": {
+        "label": "label[for='model']",
+        "input": "#model"
+    },
+    "pickup": {
+        "label": "label[for='pickup']",
+        "input": "#pickup"
+    },
+    "dropoff": {
+        "label": "label[for='dropoff']",
+        "input": "#dropoff"
+    },
+    "searchBtn": ".btn",
+    "alert": ".alert"
+}

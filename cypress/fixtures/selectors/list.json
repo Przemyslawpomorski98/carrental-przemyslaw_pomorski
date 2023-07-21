@@ -1,0 +1,6 @@
+{
+    "carList": "#search-results",
+    "columnTitle": "thead > tr > th",
+    "tableRow": "tr",
+    "rentBtn": ".btn"
+}
